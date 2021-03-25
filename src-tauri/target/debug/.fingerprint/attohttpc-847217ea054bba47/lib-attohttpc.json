@@ -1,0 +1,26 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[\"compress\", \"default\", \"flate2\", \"form\", \"json\", \"native-tls\", \"openssl\", \"serde\", \"serde_json\", \"serde_urlencoded\", \"tls\"]",
+	"target": 6100932097094806224,
+	"profile": 11677938664258541388,
+	"path": 3008012882050959851,
+	"deps": [
+		[5027596198908666028, "log", false, 6838540946278378442],
+		[6589240798048677433, "serde_json", false, 4528795950894340707],
+		[7856926234650987130, "serde", false, 6635325618205303672],
+		[8388799368500332535, "url", false, 3598250661371894079],
+		[10190625376913110732, "flate2", false, 2140049484026266357],
+		[11938285081242324843, "serde_urlencoded", false, 10785263137482628545],
+		[12153316323617548048, "native_tls", false, 4549606339760603025],
+		[15775961230200480481, "http", false, 11318897368156941121]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/attohttpc-847217ea054bba47/dep-lib-attohttpc"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 4438647059848952704
+}

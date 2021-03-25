@@ -1,0 +1,24 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 13551297302676406996,
+	"profile": 11677938664258541388,
+	"path": 7901664578309828880,
+	"deps": [
+		[8536350174477403560, "lazy_static", false, 10446097963925583287],
+		[11429563578415827798, "tempfile", false, 16556626432470044285],
+		[12153316323617548048, "build_script_build", false, 275582557025249336],
+		[15839404612938784224, "libc", false, 14203072447785899075],
+		[17683248158540628897, "security_framework", false, 16683227350295968136],
+		[17703062839361781068, "security_framework_sys", false, 14203605161401372427]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/native-tls-2fbc8760b809ab6f/dep-lib-native-tls"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 12368333809736011898
+}

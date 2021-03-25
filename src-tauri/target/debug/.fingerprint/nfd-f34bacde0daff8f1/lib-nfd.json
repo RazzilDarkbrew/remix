@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 15680004011323093712,
+	"profile": 11677938664258541388,
+	"path": 10984318396249802127,
+	"deps": [[13104025519696895871, "build_script_build", false, 9896928957913145204]],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/nfd-f34bacde0daff8f1/dep-lib-nfd"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 13616109272630418935
+}

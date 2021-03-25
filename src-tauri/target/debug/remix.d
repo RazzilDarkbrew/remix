@@ -1,0 +1,1 @@
+/Users/pfan/Dev/github/remix/src-tauri/target/debug/remix: /Users/pfan/Dev/github/remix/src-tauri/src/build.rs /Users/pfan/Dev/github/remix/src-tauri/src/cmd.rs /Users/pfan/Dev/github/remix/src-tauri/src/main.rs

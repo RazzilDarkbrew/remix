@@ -1,0 +1,20 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 18221045030891343234,
+	"profile": 11677938664258541388,
+	"path": 8506393494714419065,
+	"deps": [
+		[420959377736995029, "build_script_build", false, 10338916844718123034],
+		[15839404612938784224, "libc", false, 14203072447785899075]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/bzip2-sys-7568a532d6bbcdb2/dep-lib-bzip2_sys"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 1793464148321815383
+}

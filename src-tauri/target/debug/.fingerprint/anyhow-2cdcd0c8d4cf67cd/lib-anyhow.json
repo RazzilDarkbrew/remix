@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[\"default\", \"std\"]",
+	"target": 4905453143199480076,
+	"profile": 11677938664258541388,
+	"path": 1174061690111797791,
+	"deps": [[10425836962343148332, "build_script_build", false, 5891026037048549148]],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/anyhow-2cdcd0c8d4cf67cd/dep-lib-anyhow"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 17154292783084528516
+}

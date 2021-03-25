@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 5504714552572165096,
+	"profile": 11677938664258541388,
+	"path": 13081614859784300771,
+	"deps": [[14571634100382605432, "thiserror_impl", false, 6202099799880418210]],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/thiserror-3e98706e6bdd1a41/dep-lib-thiserror"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 11722078131081488174
+}

@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 1823478764671467918,
+	"profile": 11677938664258541388,
+	"path": 2390438981022728916,
+	"deps": [[14728235406529053222, "malloc_buf", false, 54821243239035805]],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/objc-2ab0ef9741c35725/dep-lib-objc"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 1960156697801316382
+}

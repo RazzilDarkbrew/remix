@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 10463456707115109671,
+	"profile": 11677938664258541388,
+	"path": 16607104038485836769,
+	"deps": [[7778046868355727421, "webview_official_sys", false, 825520086339080642]],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/webview_official-8f08c1ce6a398d33/dep-lib-webview_official"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 4485754151103118044
+}

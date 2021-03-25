@@ -1,0 +1,21 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 9278934327134200752,
+	"profile": 11677938664258541388,
+	"path": 9967219496118333830,
+	"deps": [
+		[8366710191990607739, "idna", false, 18000891798115156362],
+		[14819610710800023329, "matches", false, 16729985824863230149],
+		[15548764325946461229, "percent_encoding", false, 3115070194339508997]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/url-c6b1ab7a3ac2629a/dep-lib-url"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 10988327246995194721
+}

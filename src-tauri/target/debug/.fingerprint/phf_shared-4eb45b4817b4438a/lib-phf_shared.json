@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[\"default\", \"std\"]",
+	"target": 16227661388190794458,
+	"profile": 11677938664258541388,
+	"path": 16010830235405215548,
+	"deps": [[4809220367337236196, "siphasher", false, 16593171751405404123]],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/phf_shared-4eb45b4817b4438a/dep-lib-phf_shared"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 6122614903829785566
+}

@@ -1,0 +1,21 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 3569742740422746301,
+	"profile": 11677938664258541388,
+	"path": 8022762856881390993,
+	"deps": [
+		[2639285746271269761, "crossbeam_utils", false, 12247288062594322897],
+		[13192848980265738351, "maybe_uninit", false, 14173485977656980430],
+		[14766438982355721417, "crossbeam_epoch", false, 5673294103085272390]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/crossbeam-deque-0b66a95de21a7bc8/dep-lib-crossbeam-deque"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 3402653430837493900
+}

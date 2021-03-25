@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 10088282520713642473,
+	"profile": 11677938664258541388,
+	"path": 9116897304057627805,
+	"deps": [[2593293136981831884, "cc", false, 5932471190560984942]],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/mac-notification-sys-66781d14f59bc464/dep-build-script-build-script-build"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 12069592240133773016
+}

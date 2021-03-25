@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[\"default\"]",
+	"target": 3206964648777689352,
+	"profile": 11677938664258541388,
+	"path": 15827138259482623140,
+	"deps": [[910740134916139257, "mac_notification_sys", false, 15512952611317359938]],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/notify-rust-95e60cdb05ba6169/dep-lib-notify-rust"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 3689204704204418483
+}

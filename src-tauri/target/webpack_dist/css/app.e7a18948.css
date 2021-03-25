@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#app {
+	display: flex;
+	width: 100vw;
+	min-height: 100vh;
+	justify-content: center;
+	align-items: center;
+}
+#app,
+.main {
+	position: relative;
+}
+.main {
+	width: 80vw;
+	height: 60vh;
+	border: 2px dashed #999;
+	border-radius: 10px;
+}
+.main input {
+	display: block;
+	z-index: 2;
+	opacity: 0;
+}
+.main:after,
+.main input {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+.main:after {
+	display: flex;
+	content: "选择/拖入文件到此区域";
+	z-index: 1;
+	color: #999;
+	align-items: center;
+	justify-content: center;
+	font-size: 2rem;
+}
+h3[data-v-b4a3e44a] {
+	margin: 40px 0 0;
+}
+ul[data-v-b4a3e44a] {
+	list-style-type: none;
+	padding: 0;
+}
+li[data-v-b4a3e44a] {
+	display: inline-block;
+	margin: 0 10px;
+}
+a[data-v-b4a3e44a] {
+	color: #42b983;
+}

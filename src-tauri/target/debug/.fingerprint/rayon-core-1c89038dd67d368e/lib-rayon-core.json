@@ -1,0 +1,24 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 14653225420692126695,
+	"profile": 11677938664258541388,
+	"path": 12359654845388470622,
+	"deps": [
+		[2639285746271269761, "crossbeam_utils", false, 12247288062594322897],
+		[8536350174477403560, "lazy_static", false, 10446097963925583287],
+		[8724049063092480171, "num_cpus", false, 2777651325196141033],
+		[9279093438933552838, "crossbeam_channel", false, 8277174806195076813],
+		[12445339951988777786, "build_script_build", false, 15790145553827449485],
+		[12957076826637965322, "crossbeam_deque", false, 17978945629608605770]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/rayon-core-1c89038dd67d368e/dep-lib-rayon-core"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 14590378261418540923
+}

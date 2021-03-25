@@ -1,0 +1,20 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 5300367269765738096,
+	"profile": 11677938664258541388,
+	"path": 10911381883368284355,
+	"deps": [
+		[6733319350321263495, "indexmap", false, 16145237062579753474],
+		[15710376679555360037, "fsio", false, 1341437566514248421]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/envmnt-c4b017cc4098446e/dep-lib-envmnt"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 1846107299131339066
+}

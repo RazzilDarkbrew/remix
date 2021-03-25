@@ -1,0 +1,31 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "",
+	"target": 0,
+	"profile": 0,
+	"path": 0,
+	"deps": [[2683293606032114264, "build_script_build", false, 7790409381251948181]],
+	"local": [
+		{
+			"RerunIfChanged": {
+				"output": "debug/build/tauri-b9369d5ac988d6cc/output",
+				"paths": [
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/index.tauri.html",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/favicon.ico",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/index.html",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/css/app.e7a18948.css",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/js/about.1fe20099.js",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/js/chunk-vendors.898598d6.js",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/js/app.29643c90.js.map",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/js/chunk-vendors.898598d6.js.map",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/js/app.29643c90.js",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/js/about.1fe20099.js.map",
+					"/Users/pfan/Dev/github/remix/src-tauri/target/webpack_dist/img/logo.82b9c7a5.png"
+				]
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 0
+}

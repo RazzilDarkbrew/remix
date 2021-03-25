@@ -1,0 +1,21 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[\"default\", \"lazy_static\", \"std\"]",
+	"target": 1849551502798240973,
+	"profile": 11677938664258541388,
+	"path": 4306976030658297942,
+	"deps": [
+		[2639285746271269761, "build_script_build", false, 11142535236343035409],
+		[8536350174477403560, "lazy_static", false, 10446097963925583287],
+		[13837234849270857574, "cfg_if", false, 8656495412263119489]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/crossbeam-utils-738e385088ce32d5/dep-lib-crossbeam-utils"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 6969943074777359100
+}

@@ -1,0 +1,18 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "",
+	"target": 0,
+	"profile": 0,
+	"path": 0,
+	"deps": [[7778046868355727421, "build_script_build", false, 8598183659662364948]],
+	"local": [
+		{
+			"RerunIfChanged": {
+				"output": "debug/build/webview-official-sys-9c9db23fd75fb151/output",
+				"paths": ["webview-official/webview.h", "webview-official/webview.cc"]
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 0
+}

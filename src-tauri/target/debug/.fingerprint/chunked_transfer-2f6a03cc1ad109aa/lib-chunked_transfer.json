@@ -1,0 +1,11 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 3682246306446227910,
+	"profile": 11677938664258541388,
+	"path": 13083269068472793918,
+	"deps": [],
+	"local": [{"CheckDepInfo": {"dep_info": "debug/.fingerprint/chunked_transfer-2f6a03cc1ad109aa/dep-lib-chunked_transfer"}}],
+	"rustflags": [],
+	"metadata": 9458423775045392280
+}

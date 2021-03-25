@@ -1,0 +1,45 @@
+cargo:rustc-link-lib=framework=Cocoa
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2,sse3,ssse3")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2,sse3,ssse3")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2,sse3,ssse3")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-arch" "x86_64" "-I" "./boxer/include" "-Wall" "-Wextra" "-x" "objective-c" "-std=c11" "-w" "-DOBJC_OLD_DISPATCH_PROTOTYPES=1" "-o" "/Users/pfan/Dev/github/remix/src-tauri/target/debug/build/tauri-dialog-sys-b3461320d1786383/out/boxer/boxer_osx.o" "-c" "boxer/boxer_osx.m"
+exit code: 0
+AR_x86_64-apple-darwin = None
+AR_x86_64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: "ar" "crs" "/Users/pfan/Dev/github/remix/src-tauri/target/debug/build/tauri-dialog-sys-b3461320d1786383/out/libboxer.a" "/Users/pfan/Dev/github/remix/src-tauri/target/debug/build/tauri-dialog-sys-b3461320d1786383/out/boxer/boxer_osx.o"
+exit code: 0
+cargo:rustc-link-lib=static=boxer
+cargo:rustc-link-search=native=/Users/pfan/Dev/github/remix/src-tauri/target/debug/build/tauri-dialog-sys-b3461320d1786383/out

@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 17800540631166462266,
+	"profile": 11677938664258541388,
+	"path": 17081173486676955247,
+	"deps": [],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/webbrowser-0bc8743bfdca6296/dep-lib-webbrowser"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 17626854762793245194
+}

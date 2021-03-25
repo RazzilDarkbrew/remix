@@ -1,0 +1,11 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[\"embedded-server\"]",
+	"target": 10429514197457385088,
+	"profile": 14762027784537775720,
+	"path": 6016851807848378270,
+	"deps": [],
+	"local": [{"CheckDepInfo": {"dep_info": "debug/.fingerprint/remix-cafca03d5be4d2b2/dep-build-script-build-script-build"}}],
+	"rustflags": [],
+	"metadata": 7513903081705498502
+}

@@ -1,0 +1,20 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 2454123197880419544,
+	"profile": 11677938664258541388,
+	"path": 7592815869374523530,
+	"deps": [
+		[6733319350321263495, "build_script_build", false, 7819099390293067097],
+		[16963266936072068013, "hashbrown", false, 1655438016262381551]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/indexmap-4ad057848e726055/dep-lib-indexmap"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 11198035901464710582
+}

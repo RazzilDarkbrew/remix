@@ -1,0 +1,25 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[\"default\", \"lazy_static\", \"std\"]",
+	"target": 7659388274548843757,
+	"profile": 11677938664258541388,
+	"path": 6465687014123332571,
+	"deps": [
+		[2639285746271269761, "crossbeam_utils", false, 12247288062594322897],
+		[7623410506006913435, "memoffset", false, 14007475717831333825],
+		[7965979247510557292, "scopeguard", false, 3012933424717189820],
+		[8536350174477403560, "lazy_static", false, 10446097963925583287],
+		[13192848980265738351, "maybe_uninit", false, 14173485977656980430],
+		[13837234849270857574, "cfg_if", false, 8656495412263119489],
+		[14766438982355721417, "build_script_build", false, 17070493977830479739]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/crossbeam-epoch-10df226f572042e9/dep-lib-crossbeam-epoch"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 9645960989302628330
+}

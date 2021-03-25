@@ -1,0 +1,22 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[]",
+	"target": 7196708913287263106,
+	"profile": 11677938664258541388,
+	"path": 8820614764718313602,
+	"deps": [
+		[790977292825308134, "build_script_build", false, 10949368680852627354],
+		[2646625218699715456, "either", false, 12195741534608598609],
+		[12445339951988777786, "rayon_core", false, 11650723600420374344],
+		[12957076826637965322, "crossbeam_deque", false, 17978945629608605770]
+	],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/rayon-3e2f68e70139a6da/dep-lib-rayon"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 16007375514346065096
+}

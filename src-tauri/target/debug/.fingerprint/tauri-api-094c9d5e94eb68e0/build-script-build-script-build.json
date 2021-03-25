@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[\"notification\", \"notify-rust\"]",
+	"target": 10429514197457385088,
+	"profile": 11677938664258541388,
+	"path": 8846967225761891299,
+	"deps": [],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/tauri-api-094c9d5e94eb68e0/dep-build-script-build-script-build"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 12192151361486938714
+}

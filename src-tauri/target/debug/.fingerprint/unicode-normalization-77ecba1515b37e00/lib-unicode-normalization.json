@@ -1,0 +1,17 @@
+{
+	"rustc": 1392210074234315346,
+	"features": "[\"default\", \"std\"]",
+	"target": 4185667159647395477,
+	"profile": 11677938664258541388,
+	"path": 10617878573576880181,
+	"deps": [[7826046785096789857, "tinyvec", false, 14664695826590186464]],
+	"local": [
+		{
+			"CheckDepInfo": {
+				"dep_info": "debug/.fingerprint/unicode-normalization-77ecba1515b37e00/dep-lib-unicode-normalization"
+			}
+		}
+	],
+	"rustflags": [],
+	"metadata": 1973617265296363982
+}
